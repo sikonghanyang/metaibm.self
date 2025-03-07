@@ -93,12 +93,15 @@ class habitat():
             distance.append(math.sqrt((i[0]-len_id)**2+(i[1]-wid_id)**2))
         # 定义一个空列表，用于存储indi_object与同种个体之间的CNDD值
         CNDD=[]
-        Data_Processing = []
+        #Survival = []
         # 遍历distance列表，计算indi_object与同种个体之间的CNDD值，并将CNDD值添加到CNDD列表中
-        Data_Processing = math.exp(-a * sum([math.exp(-i / v) for i in distance]))
+        Survival = math.exp(-a * sum([math.exp(-i / v) for i in distance]))
         #for i in distance:
         #    CNDD.append(CNDD_function(i))
         # 判断indi_object所在的位置是否已经被占据
+        if random.random() > Survival:
+            return
+
         if self.set['microsite_individuals'][len_id][wid_id] != None:
             # 如果已经被占据，则输出提示信息
             print('the microsite in the habitat is occupied.')
@@ -203,12 +206,17 @@ class habitat():
         mean_pheno_val_ls = self.mean_env_ls
         species_id = 'sp%d'%(species_2_phenotype_ls.index(mean_pheno_val_ls)+1)
         
+        # 遍历栖息地的每一行和每一列
         for row in range(self.length):
             for col in range(self.width):
+                # 根据繁殖模式确定个体的性别
                 if reproduce_mode == 'asexual': gender = 'female'
                 if reproduce_mode == 'sexual': gender = random.sample(('male', 'female'), 1)[0]
+                # 创建个体对象
                 indi_object = individual(species_id=species_id, traits_num=traits_num, pheno_names_ls=pheno_names_ls, gender=gender)
+                # 随机初始化个体的基因型和表型
                 indi_object.random_init_indi(mean_pheno_val_ls, pheno_var_ls, geno_len_ls)
+                # 将个体添加到栖息地中
                 self.add_individual(indi_object, row, col)
         return 0    
     
