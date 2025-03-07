@@ -80,7 +80,7 @@ class habitat():
     #def CNDD_function(self, distance):
     #    math.exp(-a * sum())
 
-    def add_individual(self, indi_object, len_id, wid_id,a,v):
+    def add_individual(self, indi_object, len_id, wid_id):
         # 定义一个空列表，用于存储同种个体的位置
         same_species_position=[]
         # 遍历indi_object物种的物种分类字典，将同种个体的位置添加到same_species_position列表中
@@ -95,7 +95,7 @@ class habitat():
         CNDD=[]
         #Survival = []
         # 遍历distance列表，计算indi_object与同种个体之间的CNDD值，并将CNDD值添加到CNDD列表中
-        Survival = math.exp(-a * sum([math.exp(-i / v) for i in distance]))
+        Survival = math.exp(-self.a * sum([math.exp(-i / self.v) for i in distance]))
         #for i in distance:
         #    CNDD.append(CNDD_function(i))
         # 判断indi_object所在的位置是否已经被占据

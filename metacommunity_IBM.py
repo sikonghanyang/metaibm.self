@@ -19,7 +19,7 @@ import seaborn as sns
 
 ##################################################### class habitat #########################################################################################
 class habitat():
-    def __init__(self, hab_name, hab_index, hab_location, num_env_types, env_types_name, mean_env_ls, var_env_ls, length, width, dormancy_pool_max_size):
+    def __init__(self, hab_name, hab_index, hab_location, num_env_types, env_types_name, mean_env_ls, var_env_ls, length, width, dormancy_pool_max_size,a,v):
         '''
         int num_env_types is the number of environment types in the habitat.
         env_types_name is the list of names of env_types.
@@ -41,6 +41,8 @@ class habitat():
         self.size = length*width
         self.set = {}                     # self.data_set={} # to be improved
         self.indi_num = 0
+        self.a = a
+        self.v = v
         
         self.offspring_pool = []
         self.immigrant_pool = []
@@ -76,6 +78,20 @@ class habitat():
         pass
 
     def add_individual(self, indi_object, len_id, wid_id):
+        same_species_position=[]
+        for i in self.species_category[indi_object.species_id].keys():
+            same_species_position.extend(self.species_category[indi_object.species_id][i])
+        
+        distance=[]
+        
+        for i in same_species_position:
+            distance.append(math.sqrt((i[0]-len_id)**2+(i[1]-wid_id)**2))
+
+        Survival = math.exp(-self.a * sum([math.exp(-i / self.v) for i in distance]))
+
+        if random.random() > Survival:
+            return
+
         if self.set['microsite_individuals'][len_id][wid_id] != None:
             print('the microsite in the habitat is occupied.')
         else:
