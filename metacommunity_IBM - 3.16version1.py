@@ -79,11 +79,6 @@ class habitat():
 
     def add_individual(self, indi_object, len_id, wid_id):
         same_species_position=[]
-        if indi_object.species_id not in self.species_category:
-            self.species_category[indi_object.species_id] = {}  # 动态初始化物种键
-        if indi_object.gender not in self.species_category[indi_object.species_id]:
-            self.species_category[indi_object.species_id][indi_object.gender] = []  # 动态初始化性别键    
-            
         for i in self.species_category[indi_object.species_id].keys():
             same_species_position.extend(self.species_category[indi_object.species_id][i])
         
