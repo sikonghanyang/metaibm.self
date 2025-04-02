@@ -1,0 +1,927 @@
+generating empty mainland ... 
+mainland: patch0, (0, 0), h0, (0, 0): x_axis_environment_mean_value=0.0, y_axis_environment_mean_value=0.0 
+mainland: patch0, (0, 0), h1, (0, 1): x_axis_environment_mean_value=0.0, y_axis_environment_mean_value=0.1 
+mainland: patch0, (0, 0), h2, (0, 2): x_axis_environment_mean_value=0.0, y_axis_environment_mean_value=0.2 
+mainland: patch0, (0, 0), h3, (0, 3): x_axis_environment_mean_value=0.0, y_axis_environment_mean_value=0.3 
+mainland: patch0, (0, 0), h4, (0, 4): x_axis_environment_mean_value=0.0, y_axis_environment_mean_value=0.4 
+mainland: patch0, (0, 0), h5, (0, 5): x_axis_environment_mean_value=0.0, y_axis_environment_mean_value=0.5 
+mainland: patch0, (0, 0), h6, (0, 6): x_axis_environment_mean_value=0.0, y_axis_environment_mean_value=0.6 
+mainland: patch0, (0, 0), h7, (0, 7): x_axis_environment_mean_value=0.0, y_axis_environment_mean_value=0.7 
+mainland: patch0, (0, 0), h8, (0, 8): x_axis_environment_mean_value=0.0, y_axis_environment_mean_value=0.8 
+mainland: patch0, (0, 0), h9, (0, 9): x_axis_environment_mean_value=0.0, y_axis_environment_mean_value=0.9 
+mainland: patch0, (0, 0), h10, (1, 0): x_axis_environment_mean_value=0.1, y_axis_environment_mean_value=0.0 
+mainland: patch0, (0, 0), h11, (1, 1): x_axis_environment_mean_value=0.1, y_axis_environment_mean_value=0.1 
+mainland: patch0, (0, 0), h12, (1, 2): x_axis_environment_mean_value=0.1, y_axis_environment_mean_value=0.2 
+mainland: patch0, (0, 0), h13, (1, 3): x_axis_environment_mean_value=0.1, y_axis_environment_mean_value=0.3 
+mainland: patch0, (0, 0), h14, (1, 4): x_axis_environment_mean_value=0.1, y_axis_environment_mean_value=0.4 
+mainland: patch0, (0, 0), h15, (1, 5): x_axis_environment_mean_value=0.1, y_axis_environment_mean_value=0.5 
+mainland: patch0, (0, 0), h16, (1, 6): x_axis_environment_mean_value=0.1, y_axis_environment_mean_value=0.6 
+mainland: patch0, (0, 0), h17, (1, 7): x_axis_environment_mean_value=0.1, y_axis_environment_mean_value=0.7 
+mainland: patch0, (0, 0), h18, (1, 8): x_axis_environment_mean_value=0.1, y_axis_environment_mean_value=0.8 
+mainland: patch0, (0, 0), h19, (1, 9): x_axis_environment_mean_value=0.1, y_axis_environment_mean_value=0.9 
+mainland: patch0, (0, 0), h20, (2, 0): x_axis_environment_mean_value=0.2, y_axis_environment_mean_value=0.0 
+mainland: patch0, (0, 0), h21, (2, 1): x_axis_environment_mean_value=0.2, y_axis_environment_mean_value=0.1 
+mainland: patch0, (0, 0), h22, (2, 2): x_axis_environment_mean_value=0.2, y_axis_environment_mean_value=0.2 
+mainland: patch0, (0, 0), h23, (2, 3): x_axis_environment_mean_value=0.2, y_axis_environment_mean_value=0.3 
+mainland: patch0, (0, 0), h24, (2, 4): x_axis_environment_mean_value=0.2, y_axis_environment_mean_value=0.4 
+mainland: patch0, (0, 0), h25, (2, 5): x_axis_environment_mean_value=0.2, y_axis_environment_mean_value=0.5 
+mainland: patch0, (0, 0), h26, (2, 6): x_axis_environment_mean_value=0.2, y_axis_environment_mean_value=0.6 
+mainland: patch0, (0, 0), h27, (2, 7): x_axis_environment_mean_value=0.2, y_axis_environment_mean_value=0.7 
+mainland: patch0, (0, 0), h28, (2, 8): x_axis_environment_mean_value=0.2, y_axis_environment_mean_value=0.8 
+mainland: patch0, (0, 0), h29, (2, 9): x_axis_environment_mean_value=0.2, y_axis_environment_mean_value=0.9 
+mainland: patch0, (0, 0), h30, (3, 0): x_axis_environment_mean_value=0.3, y_axis_environment_mean_value=0.0 
+mainland: patch0, (0, 0), h31, (3, 1): x_axis_environment_mean_value=0.3, y_axis_environment_mean_value=0.1 
+mainland: patch0, (0, 0), h32, (3, 2): x_axis_environment_mean_value=0.3, y_axis_environment_mean_value=0.2 
+mainland: patch0, (0, 0), h33, (3, 3): x_axis_environment_mean_value=0.3, y_axis_environment_mean_value=0.3 
+mainland: patch0, (0, 0), h34, (3, 4): x_axis_environment_mean_value=0.3, y_axis_environment_mean_value=0.4 
+mainland: patch0, (0, 0), h35, (3, 5): x_axis_environment_mean_value=0.3, y_axis_environment_mean_value=0.5 
+mainland: patch0, (0, 0), h36, (3, 6): x_axis_environment_mean_value=0.3, y_axis_environment_mean_value=0.6 
+mainland: patch0, (0, 0), h37, (3, 7): x_axis_environment_mean_value=0.3, y_axis_environment_mean_value=0.7 
+mainland: patch0, (0, 0), h38, (3, 8): x_axis_environment_mean_value=0.3, y_axis_environment_mean_value=0.8 
+mainland: patch0, (0, 0), h39, (3, 9): x_axis_environment_mean_value=0.3, y_axis_environment_mean_value=0.9 
+mainland: patch0, (0, 0), h40, (4, 0): x_axis_environment_mean_value=0.4, y_axis_environment_mean_value=0.0 
+mainland: patch0, (0, 0), h41, (4, 1): x_axis_environment_mean_value=0.4, y_axis_environment_mean_value=0.1 
+mainland: patch0, (0, 0), h42, (4, 2): x_axis_environment_mean_value=0.4, y_axis_environment_mean_value=0.2 
+mainland: patch0, (0, 0), h43, (4, 3): x_axis_environment_mean_value=0.4, y_axis_environment_mean_value=0.3 
+mainland: patch0, (0, 0), h44, (4, 4): x_axis_environment_mean_value=0.4, y_axis_environment_mean_value=0.4 
+mainland: patch0, (0, 0), h45, (4, 5): x_axis_environment_mean_value=0.4, y_axis_environment_mean_value=0.5 
+mainland: patch0, (0, 0), h46, (4, 6): x_axis_environment_mean_value=0.4, y_axis_environment_mean_value=0.6 
+mainland: patch0, (0, 0), h47, (4, 7): x_axis_environment_mean_value=0.4, y_axis_environment_mean_value=0.7 
+mainland: patch0, (0, 0), h48, (4, 8): x_axis_environment_mean_value=0.4, y_axis_environment_mean_value=0.8 
+mainland: patch0, (0, 0), h49, (4, 9): x_axis_environment_mean_value=0.4, y_axis_environment_mean_value=0.9 
+mainland: patch0, (0, 0), h50, (5, 0): x_axis_environment_mean_value=0.5, y_axis_environment_mean_value=0.0 
+mainland: patch0, (0, 0), h51, (5, 1): x_axis_environment_mean_value=0.5, y_axis_environment_mean_value=0.1 
+mainland: patch0, (0, 0), h52, (5, 2): x_axis_environment_mean_value=0.5, y_axis_environment_mean_value=0.2 
+mainland: patch0, (0, 0), h53, (5, 3): x_axis_environment_mean_value=0.5, y_axis_environment_mean_value=0.3 
+mainland: patch0, (0, 0), h54, (5, 4): x_axis_environment_mean_value=0.5, y_axis_environment_mean_value=0.4 
+mainland: patch0, (0, 0), h55, (5, 5): x_axis_environment_mean_value=0.5, y_axis_environment_mean_value=0.5 
+mainland: patch0, (0, 0), h56, (5, 6): x_axis_environment_mean_value=0.5, y_axis_environment_mean_value=0.6 
+mainland: patch0, (0, 0), h57, (5, 7): x_axis_environment_mean_value=0.5, y_axis_environment_mean_value=0.7 
+mainland: patch0, (0, 0), h58, (5, 8): x_axis_environment_mean_value=0.5, y_axis_environment_mean_value=0.8 
+mainland: patch0, (0, 0), h59, (5, 9): x_axis_environment_mean_value=0.5, y_axis_environment_mean_value=0.9 
+mainland: patch0, (0, 0), h60, (6, 0): x_axis_environment_mean_value=0.6, y_axis_environment_mean_value=0.0 
+mainland: patch0, (0, 0), h61, (6, 1): x_axis_environment_mean_value=0.6, y_axis_environment_mean_value=0.1 
+mainland: patch0, (0, 0), h62, (6, 2): x_axis_environment_mean_value=0.6, y_axis_environment_mean_value=0.2 
+mainland: patch0, (0, 0), h63, (6, 3): x_axis_environment_mean_value=0.6, y_axis_environment_mean_value=0.3 
+mainland: patch0, (0, 0), h64, (6, 4): x_axis_environment_mean_value=0.6, y_axis_environment_mean_value=0.4 
+mainland: patch0, (0, 0), h65, (6, 5): x_axis_environment_mean_value=0.6, y_axis_environment_mean_value=0.5 
+mainland: patch0, (0, 0), h66, (6, 6): x_axis_environment_mean_value=0.6, y_axis_environment_mean_value=0.6 
+mainland: patch0, (0, 0), h67, (6, 7): x_axis_environment_mean_value=0.6, y_axis_environment_mean_value=0.7 
+mainland: patch0, (0, 0), h68, (6, 8): x_axis_environment_mean_value=0.6, y_axis_environment_mean_value=0.8 
+mainland: patch0, (0, 0), h69, (6, 9): x_axis_environment_mean_value=0.6, y_axis_environment_mean_value=0.9 
+mainland: patch0, (0, 0), h70, (7, 0): x_axis_environment_mean_value=0.7, y_axis_environment_mean_value=0.0 
+mainland: patch0, (0, 0), h71, (7, 1): x_axis_environment_mean_value=0.7, y_axis_environment_mean_value=0.1 
+mainland: patch0, (0, 0), h72, (7, 2): x_axis_environment_mean_value=0.7, y_axis_environment_mean_value=0.2 
+mainland: patch0, (0, 0), h73, (7, 3): x_axis_environment_mean_value=0.7, y_axis_environment_mean_value=0.3 
+mainland: patch0, (0, 0), h74, (7, 4): x_axis_environment_mean_value=0.7, y_axis_environment_mean_value=0.4 
+mainland: patch0, (0, 0), h75, (7, 5): x_axis_environment_mean_value=0.7, y_axis_environment_mean_value=0.5 
+mainland: patch0, (0, 0), h76, (7, 6): x_axis_environment_mean_value=0.7, y_axis_environment_mean_value=0.6 
+mainland: patch0, (0, 0), h77, (7, 7): x_axis_environment_mean_value=0.7, y_axis_environment_mean_value=0.7 
+mainland: patch0, (0, 0), h78, (7, 8): x_axis_environment_mean_value=0.7, y_axis_environment_mean_value=0.8 
+mainland: patch0, (0, 0), h79, (7, 9): x_axis_environment_mean_value=0.7, y_axis_environment_mean_value=0.9 
+mainland: patch0, (0, 0), h80, (8, 0): x_axis_environment_mean_value=0.8, y_axis_environment_mean_value=0.0 
+mainland: patch0, (0, 0), h81, (8, 1): x_axis_environment_mean_value=0.8, y_axis_environment_mean_value=0.1 
+mainland: patch0, (0, 0), h82, (8, 2): x_axis_environment_mean_value=0.8, y_axis_environment_mean_value=0.2 
+mainland: patch0, (0, 0), h83, (8, 3): x_axis_environment_mean_value=0.8, y_axis_environment_mean_value=0.3 
+mainland: patch0, (0, 0), h84, (8, 4): x_axis_environment_mean_value=0.8, y_axis_environment_mean_value=0.4 
+mainland: patch0, (0, 0), h85, (8, 5): x_axis_environment_mean_value=0.8, y_axis_environment_mean_value=0.5 
+mainland: patch0, (0, 0), h86, (8, 6): x_axis_environment_mean_value=0.8, y_axis_environment_mean_value=0.6 
+mainland: patch0, (0, 0), h87, (8, 7): x_axis_environment_mean_value=0.8, y_axis_environment_mean_value=0.7 
+mainland: patch0, (0, 0), h88, (8, 8): x_axis_environment_mean_value=0.8, y_axis_environment_mean_value=0.8 
+mainland: patch0, (0, 0), h89, (8, 9): x_axis_environment_mean_value=0.8, y_axis_environment_mean_value=0.9 
+mainland: patch0, (0, 0), h90, (9, 0): x_axis_environment_mean_value=0.9, y_axis_environment_mean_value=0.0 
+mainland: patch0, (0, 0), h91, (9, 1): x_axis_environment_mean_value=0.9, y_axis_environment_mean_value=0.1 
+mainland: patch0, (0, 0), h92, (9, 2): x_axis_environment_mean_value=0.9, y_axis_environment_mean_value=0.2 
+mainland: patch0, (0, 0), h93, (9, 3): x_axis_environment_mean_value=0.9, y_axis_environment_mean_value=0.3 
+mainland: patch0, (0, 0), h94, (9, 4): x_axis_environment_mean_value=0.9, y_axis_environment_mean_value=0.4 
+mainland: patch0, (0, 0), h95, (9, 5): x_axis_environment_mean_value=0.9, y_axis_environment_mean_value=0.5 
+mainland: patch0, (0, 0), h96, (9, 6): x_axis_environment_mean_value=0.9, y_axis_environment_mean_value=0.6 
+mainland: patch0, (0, 0), h97, (9, 7): x_axis_environment_mean_value=0.9, y_axis_environment_mean_value=0.7 
+mainland: patch0, (0, 0), h98, (9, 8): x_axis_environment_mean_value=0.9, y_axis_environment_mean_value=0.8 
+mainland: patch0, (0, 0), h99, (9, 9): x_axis_environment_mean_value=0.9, y_axis_environment_mean_value=0.9 
+generating empty metacommunity ... 
+metacommunity: patch1, (0, 0), h0, (0, 0): x_axis_environment_value=0.0, y_axis_environment_value=0.0
+metacommunity: patch1, (0, 0), h1, (0, 1): x_axis_environment_value=0.0, y_axis_environment_value=0.1
+metacommunity: patch1, (0, 0), h2, (1, 0): x_axis_environment_value=0.1, y_axis_environment_value=0.0
+metacommunity: patch1, (0, 0), h3, (1, 1): x_axis_environment_value=0.1, y_axis_environment_value=0.1
+metacommunity: patch2, (0, 1), h0, (0, 2): x_axis_environment_value=0.0, y_axis_environment_value=0.2
+metacommunity: patch2, (0, 1), h1, (0, 3): x_axis_environment_value=0.0, y_axis_environment_value=0.3
+metacommunity: patch2, (0, 1), h2, (1, 2): x_axis_environment_value=0.1, y_axis_environment_value=0.2
+metacommunity: patch2, (0, 1), h3, (1, 3): x_axis_environment_value=0.1, y_axis_environment_value=0.3
+metacommunity: patch3, (0, 2), h0, (0, 4): x_axis_environment_value=0.0, y_axis_environment_value=0.5
+metacommunity: patch3, (0, 2), h1, (0, 5): x_axis_environment_value=0.0, y_axis_environment_value=0.6
+metacommunity: patch3, (0, 2), h2, (1, 4): x_axis_environment_value=0.1, y_axis_environment_value=0.5
+metacommunity: patch3, (0, 2), h3, (1, 5): x_axis_environment_value=0.1, y_axis_environment_value=0.6
+metacommunity: patch4, (0, 3), h0, (0, 6): x_axis_environment_value=0.0, y_axis_environment_value=0.7
+metacommunity: patch4, (0, 3), h1, (0, 7): x_axis_environment_value=0.0, y_axis_environment_value=0.8
+metacommunity: patch4, (0, 3), h2, (1, 6): x_axis_environment_value=0.1, y_axis_environment_value=0.7
+metacommunity: patch4, (0, 3), h3, (1, 7): x_axis_environment_value=0.1, y_axis_environment_value=0.8
+metacommunity: patch5, (1, 0), h0, (2, 0): x_axis_environment_value=0.2, y_axis_environment_value=0.0
+metacommunity: patch5, (1, 0), h1, (2, 1): x_axis_environment_value=0.2, y_axis_environment_value=0.1
+metacommunity: patch5, (1, 0), h2, (3, 0): x_axis_environment_value=0.3, y_axis_environment_value=0.0
+metacommunity: patch5, (1, 0), h3, (3, 1): x_axis_environment_value=0.3, y_axis_environment_value=0.1
+metacommunity: patch6, (1, 1), h0, (2, 2): x_axis_environment_value=0.2, y_axis_environment_value=0.2
+metacommunity: patch6, (1, 1), h1, (2, 3): x_axis_environment_value=0.2, y_axis_environment_value=0.3
+metacommunity: patch6, (1, 1), h2, (3, 2): x_axis_environment_value=0.3, y_axis_environment_value=0.2
+metacommunity: patch6, (1, 1), h3, (3, 3): x_axis_environment_value=0.3, y_axis_environment_value=0.3
+metacommunity: patch7, (1, 2), h0, (2, 4): x_axis_environment_value=0.2, y_axis_environment_value=0.5
+metacommunity: patch7, (1, 2), h1, (2, 5): x_axis_environment_value=0.2, y_axis_environment_value=0.6
+metacommunity: patch7, (1, 2), h2, (3, 4): x_axis_environment_value=0.3, y_axis_environment_value=0.5
+metacommunity: patch7, (1, 2), h3, (3, 5): x_axis_environment_value=0.3, y_axis_environment_value=0.6
+metacommunity: patch8, (1, 3), h0, (2, 6): x_axis_environment_value=0.2, y_axis_environment_value=0.7
+metacommunity: patch8, (1, 3), h1, (2, 7): x_axis_environment_value=0.2, y_axis_environment_value=0.8
+metacommunity: patch8, (1, 3), h2, (3, 6): x_axis_environment_value=0.3, y_axis_environment_value=0.7
+metacommunity: patch8, (1, 3), h3, (3, 7): x_axis_environment_value=0.3, y_axis_environment_value=0.8
+metacommunity: patch9, (2, 0), h0, (4, 0): x_axis_environment_value=0.5, y_axis_environment_value=0.0
+metacommunity: patch9, (2, 0), h1, (4, 1): x_axis_environment_value=0.5, y_axis_environment_value=0.1
+metacommunity: patch9, (2, 0), h2, (5, 0): x_axis_environment_value=0.6, y_axis_environment_value=0.0
+metacommunity: patch9, (2, 0), h3, (5, 1): x_axis_environment_value=0.6, y_axis_environment_value=0.1
+metacommunity: patch10, (2, 1), h0, (4, 2): x_axis_environment_value=0.5, y_axis_environment_value=0.2
+metacommunity: patch10, (2, 1), h1, (4, 3): x_axis_environment_value=0.5, y_axis_environment_value=0.3
+metacommunity: patch10, (2, 1), h2, (5, 2): x_axis_environment_value=0.6, y_axis_environment_value=0.2
+metacommunity: patch10, (2, 1), h3, (5, 3): x_axis_environment_value=0.6, y_axis_environment_value=0.3
+metacommunity: patch11, (2, 2), h0, (4, 4): x_axis_environment_value=0.5, y_axis_environment_value=0.5
+metacommunity: patch11, (2, 2), h1, (4, 5): x_axis_environment_value=0.5, y_axis_environment_value=0.6
+metacommunity: patch11, (2, 2), h2, (5, 4): x_axis_environment_value=0.6, y_axis_environment_value=0.5
+metacommunity: patch11, (2, 2), h3, (5, 5): x_axis_environment_value=0.6, y_axis_environment_value=0.6
+metacommunity: patch12, (2, 3), h0, (4, 6): x_axis_environment_value=0.5, y_axis_environment_value=0.7
+metacommunity: patch12, (2, 3), h1, (4, 7): x_axis_environment_value=0.5, y_axis_environment_value=0.8
+metacommunity: patch12, (2, 3), h2, (5, 6): x_axis_environment_value=0.6, y_axis_environment_value=0.7
+metacommunity: patch12, (2, 3), h3, (5, 7): x_axis_environment_value=0.6, y_axis_environment_value=0.8
+metacommunity: patch13, (3, 0), h0, (6, 0): x_axis_environment_value=0.7, y_axis_environment_value=0.0
+metacommunity: patch13, (3, 0), h1, (6, 1): x_axis_environment_value=0.7, y_axis_environment_value=0.1
+metacommunity: patch13, (3, 0), h2, (7, 0): x_axis_environment_value=0.8, y_axis_environment_value=0.0
+metacommunity: patch13, (3, 0), h3, (7, 1): x_axis_environment_value=0.8, y_axis_environment_value=0.1
+metacommunity: patch14, (3, 1), h0, (6, 2): x_axis_environment_value=0.7, y_axis_environment_value=0.2
+metacommunity: patch14, (3, 1), h1, (6, 3): x_axis_environment_value=0.7, y_axis_environment_value=0.3
+metacommunity: patch14, (3, 1), h2, (7, 2): x_axis_environment_value=0.8, y_axis_environment_value=0.2
+metacommunity: patch14, (3, 1), h3, (7, 3): x_axis_environment_value=0.8, y_axis_environment_value=0.3
+metacommunity: patch15, (3, 2), h0, (6, 4): x_axis_environment_value=0.7, y_axis_environment_value=0.5
+metacommunity: patch15, (3, 2), h1, (6, 5): x_axis_environment_value=0.7, y_axis_environment_value=0.6
+metacommunity: patch15, (3, 2), h2, (7, 4): x_axis_environment_value=0.8, y_axis_environment_value=0.5
+metacommunity: patch15, (3, 2), h3, (7, 5): x_axis_environment_value=0.8, y_axis_environment_value=0.6
+metacommunity: patch16, (3, 3), h0, (6, 6): x_axis_environment_value=0.7, y_axis_environment_value=0.7
+metacommunity: patch16, (3, 3), h1, (6, 7): x_axis_environment_value=0.7, y_axis_environment_value=0.8
+metacommunity: patch16, (3, 3), h2, (7, 6): x_axis_environment_value=0.8, y_axis_environment_value=0.7
+metacommunity: patch16, (3, 3), h3, (7, 7): x_axis_environment_value=0.8, y_axis_environment_value=0.8
+mainland initialization done! 
+
+time_step=0 
+[Dead selection] in mainland: there are 368 individuals dead in selection; there are 3028 individuals in the mainland; there are 36972 empty sites in the mainland 
+[Birth process] in mainland: there are 1322 individuals germinating from local habitat; there are 3050 individuals in the mainland; there are 36950 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 0 individuals dead in selection; there are 0 individuals in the metacommunity; there are 102400 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 0 offspring_marker born into the offspring_marker_pool; there are 0 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 39 individuals in the metacommunity; there are 102361 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 0 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 0 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 0 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 0 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 39 individuals in the metacommunity; there are 102361 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=1 
+[Dead selection] in mainland: there are 333 individuals dead in selection; there are 2717 individuals in the mainland; there are 37283 empty sites in the mainland 
+[Birth process] in mainland: there are 1169 individuals germinating from local habitat; there are 2745 individuals in the mainland; there are 37255 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 28 individuals dead in selection; there are 11 individuals in the metacommunity; there are 102389 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 3 offspring_marker born into the offspring_marker_pool; there are 3 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 49 individuals in the metacommunity; there are 102351 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 0 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 0 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 0 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 3 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 52 individuals in the metacommunity; there are 102348 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=2 
+[Dead selection] in mainland: there are 306 individuals dead in selection; there are 2439 individuals in the mainland; there are 37561 empty sites in the mainland 
+[Birth process] in mainland: there are 1044 individuals germinating from local habitat; there are 2478 individuals in the mainland; there are 37522 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 25 individuals dead in selection; there are 27 individuals in the metacommunity; there are 102373 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 6 offspring_marker born into the offspring_marker_pool; there are 6 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 66 individuals in the metacommunity; there are 102334 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 1 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 1 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 1 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 7 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 73 individuals in the metacommunity; there are 102327 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=3 
+[Dead selection] in mainland: there are 247 individuals dead in selection; there are 2231 individuals in the mainland; there are 37769 empty sites in the mainland 
+[Birth process] in mainland: there are 942 individuals germinating from local habitat; there are 2281 individuals in the mainland; there are 37719 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 49 individuals dead in selection; there are 24 individuals in the metacommunity; there are 102376 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 3 offspring_marker born into the offspring_marker_pool; there are 3 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 62 individuals in the metacommunity; there are 102338 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 0 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 0 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 0 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 3 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 64 individuals in the metacommunity; there are 102336 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=4 
+[Dead selection] in mainland: there are 251 individuals dead in selection; there are 2030 individuals in the mainland; there are 37970 empty sites in the mainland 
+[Birth process] in mainland: there are 850 individuals germinating from local habitat; there are 2074 individuals in the mainland; there are 37926 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 37 individuals dead in selection; there are 27 individuals in the metacommunity; there are 102373 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 3 offspring_marker born into the offspring_marker_pool; there are 3 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 65 individuals in the metacommunity; there are 102335 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 1 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 1 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 1 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 4 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 69 individuals in the metacommunity; there are 102331 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=5 
+[Dead selection] in mainland: there are 234 individuals dead in selection; there are 1840 individuals in the mainland; there are 38160 empty sites in the mainland 
+[Birth process] in mainland: there are 749 individuals germinating from local habitat; there are 1887 individuals in the mainland; there are 38113 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 32 individuals dead in selection; there are 37 individuals in the metacommunity; there are 102363 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 8 offspring_marker born into the offspring_marker_pool; there are 8 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 76 individuals in the metacommunity; there are 102324 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 1 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 1 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 1 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 9 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 84 individuals in the metacommunity; there are 102316 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=6 
+[Dead selection] in mainland: there are 193 individuals dead in selection; there are 1694 individuals in the mainland; there are 38306 empty sites in the mainland 
+[Birth process] in mainland: there are 684 individuals germinating from local habitat; there are 1748 individuals in the mainland; there are 38252 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 44 individuals dead in selection; there are 40 individuals in the metacommunity; there are 102360 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 6 offspring_marker born into the offspring_marker_pool; there are 6 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 80 individuals in the metacommunity; there are 102320 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 0 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 0 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 0 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 6 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 86 individuals in the metacommunity; there are 102314 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=7 
+[Dead selection] in mainland: there are 212 individuals dead in selection; there are 1536 individuals in the mainland; there are 38464 empty sites in the mainland 
+[Birth process] in mainland: there are 630 individuals germinating from local habitat; there are 1605 individuals in the mainland; there are 38395 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 42 individuals dead in selection; there are 44 individuals in the metacommunity; there are 102356 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 9 offspring_marker born into the offspring_marker_pool; there are 9 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 83 individuals in the metacommunity; there are 102317 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 1 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 1 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 1 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 10 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 91 individuals in the metacommunity; there are 102309 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=8 
+[Dead selection] in mainland: there are 170 individuals dead in selection; there are 1435 individuals in the mainland; there are 38565 empty sites in the mainland 
+[Birth process] in mainland: there are 586 individuals germinating from local habitat; there are 1499 individuals in the mainland; there are 38501 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 41 individuals dead in selection; there are 50 individuals in the metacommunity; there are 102350 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 12 offspring_marker born into the offspring_marker_pool; there are 12 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 89 individuals in the metacommunity; there are 102311 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 1 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 1 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 1 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 13 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 98 individuals in the metacommunity; there are 102302 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=9 
+[Dead selection] in mainland: there are 172 individuals dead in selection; there are 1327 individuals in the mainland; there are 38673 empty sites in the mainland 
+[Birth process] in mainland: there are 550 individuals germinating from local habitat; there are 1392 individuals in the mainland; there are 38608 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 37 individuals dead in selection; there are 61 individuals in the metacommunity; there are 102339 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 17 offspring_marker born into the offspring_marker_pool; there are 17 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 100 individuals in the metacommunity; there are 102300 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 1 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 1 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 1 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 18 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 114 individuals in the metacommunity; there are 102286 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=10 
+[Dead selection] in mainland: there are 157 individuals dead in selection; there are 1235 individuals in the mainland; there are 38765 empty sites in the mainland 
+[Birth process] in mainland: there are 512 individuals germinating from local habitat; there are 1296 individuals in the mainland; there are 38704 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 47 individuals dead in selection; there are 67 individuals in the metacommunity; there are 102333 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 17 offspring_marker born into the offspring_marker_pool; there are 17 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 106 individuals in the metacommunity; there are 102294 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 1 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 1 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 1 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 18 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 123 individuals in the metacommunity; there are 102277 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=11 
+[Dead selection] in mainland: there are 136 individuals dead in selection; there are 1160 individuals in the mainland; there are 38840 empty sites in the mainland 
+[Birth process] in mainland: there are 476 individuals germinating from local habitat; there are 1211 individuals in the mainland; there are 38789 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 58 individuals dead in selection; there are 65 individuals in the metacommunity; there are 102335 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 15 offspring_marker born into the offspring_marker_pool; there are 15 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 104 individuals in the metacommunity; there are 102296 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 1 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 1 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 1 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 16 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 116 individuals in the metacommunity; there are 102284 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=12 
+[Dead selection] in mainland: there are 124 individuals dead in selection; there are 1087 individuals in the mainland; there are 38913 empty sites in the mainland 
+[Birth process] in mainland: there are 449 individuals germinating from local habitat; there are 1168 individuals in the mainland; there are 38832 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 31 individuals dead in selection; there are 85 individuals in the metacommunity; there are 102315 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 20 offspring_marker born into the offspring_marker_pool; there are 20 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 124 individuals in the metacommunity; there are 102276 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 0 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 0 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 0 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 20 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 137 individuals in the metacommunity; there are 102263 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=13 
+[Dead selection] in mainland: there are 121 individuals dead in selection; there are 1047 individuals in the mainland; there are 38953 empty sites in the mainland 
+[Birth process] in mainland: there are 427 individuals germinating from local habitat; there are 1135 individuals in the mainland; there are 38865 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 49 individuals dead in selection; there are 88 individuals in the metacommunity; there are 102312 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 23 offspring_marker born into the offspring_marker_pool; there are 23 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 128 individuals in the metacommunity; there are 102272 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 0 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 0 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 0 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 23 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 144 individuals in the metacommunity; there are 102256 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=14 
+[Dead selection] in mainland: there are 109 individuals dead in selection; there are 1026 individuals in the mainland; there are 38974 empty sites in the mainland 
+[Birth process] in mainland: there are 417 individuals germinating from local habitat; there are 1096 individuals in the mainland; there are 38904 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 57 individuals dead in selection; there are 87 individuals in the metacommunity; there are 102313 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 23 offspring_marker born into the offspring_marker_pool; there are 23 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 121 individuals in the metacommunity; there are 102279 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 3 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 3 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 3 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 26 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 142 individuals in the metacommunity; there are 102258 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=15 
+[Dead selection] in mainland: there are 109 individuals dead in selection; there are 987 individuals in the mainland; there are 39013 empty sites in the mainland 
+[Birth process] in mainland: there are 398 individuals germinating from local habitat; there are 1055 individuals in the mainland; there are 38945 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 45 individuals dead in selection; there are 97 individuals in the metacommunity; there are 102303 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 28 offspring_marker born into the offspring_marker_pool; there are 28 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 134 individuals in the metacommunity; there are 102266 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 4 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 4 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 4 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 32 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 155 individuals in the metacommunity; there are 102245 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=16 
+[Dead selection] in mainland: there are 97 individuals dead in selection; there are 958 individuals in the mainland; there are 39042 empty sites in the mainland 
+[Birth process] in mainland: there are 382 individuals germinating from local habitat; there are 1022 individuals in the mainland; there are 38978 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 53 individuals dead in selection; there are 102 individuals in the metacommunity; there are 102298 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 27 offspring_marker born into the offspring_marker_pool; there are 27 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 142 individuals in the metacommunity; there are 102258 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 4 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 4 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 4 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 31 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 164 individuals in the metacommunity; there are 102236 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=17 
+[Dead selection] in mainland: there are 107 individuals dead in selection; there are 915 individuals in the mainland; there are 39085 empty sites in the mainland 
+[Birth process] in mainland: there are 370 individuals germinating from local habitat; there are 990 individuals in the mainland; there are 39010 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 58 individuals dead in selection; there are 106 individuals in the metacommunity; there are 102294 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 28 offspring_marker born into the offspring_marker_pool; there are 28 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 144 individuals in the metacommunity; there are 102256 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 2 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 2 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 2 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 30 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 166 individuals in the metacommunity; there are 102234 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=18 
+[Dead selection] in mainland: there are 108 individuals dead in selection; there are 882 individuals in the mainland; there are 39118 empty sites in the mainland 
+[Birth process] in mainland: there are 353 individuals germinating from local habitat; there are 938 individuals in the mainland; there are 39062 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 59 individuals dead in selection; there are 107 individuals in the metacommunity; there are 102293 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 29 offspring_marker born into the offspring_marker_pool; there are 29 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 143 individuals in the metacommunity; there are 102257 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 1 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 1 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 1 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 30 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 162 individuals in the metacommunity; there are 102238 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=19 
+[Dead selection] in mainland: there are 98 individuals dead in selection; there are 840 individuals in the mainland; there are 39160 empty sites in the mainland 
+[Birth process] in mainland: there are 330 individuals germinating from local habitat; there are 919 individuals in the mainland; there are 39081 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 49 individuals dead in selection; there are 113 individuals in the metacommunity; there are 102287 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 31 offspring_marker born into the offspring_marker_pool; there are 31 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 152 individuals in the metacommunity; there are 102248 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 3 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 3 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 3 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 34 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 178 individuals in the metacommunity; there are 102222 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=20 
+[Dead selection] in mainland: there are 82 individuals dead in selection; there are 837 individuals in the mainland; there are 39163 empty sites in the mainland 
+[Birth process] in mainland: there are 324 individuals germinating from local habitat; there are 912 individuals in the mainland; there are 39088 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 45 individuals dead in selection; there are 133 individuals in the metacommunity; there are 102267 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 36 offspring_marker born into the offspring_marker_pool; there are 36 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 172 individuals in the metacommunity; there are 102228 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 3 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 3 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 3 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 39 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 199 individuals in the metacommunity; there are 102201 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=21 
+[Dead selection] in mainland: there are 100 individuals dead in selection; there are 812 individuals in the mainland; there are 39188 empty sites in the mainland 
+[Birth process] in mainland: there are 312 individuals germinating from local habitat; there are 872 individuals in the mainland; there are 39128 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 53 individuals dead in selection; there are 146 individuals in the metacommunity; there are 102254 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 38 offspring_marker born into the offspring_marker_pool; there are 38 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 183 individuals in the metacommunity; there are 102217 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 5 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 5 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 5 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 43 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 211 individuals in the metacommunity; there are 102189 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=22 
+[Dead selection] in mainland: there are 98 individuals dead in selection; there are 774 individuals in the mainland; there are 39226 empty sites in the mainland 
+[Birth process] in mainland: there are 285 individuals germinating from local habitat; there are 839 individuals in the mainland; there are 39161 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 74 individuals dead in selection; there are 137 individuals in the metacommunity; there are 102263 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 36 offspring_marker born into the offspring_marker_pool; there are 36 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 176 individuals in the metacommunity; there are 102224 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 6 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 6 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 6 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 42 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 205 individuals in the metacommunity; there are 102195 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=23 
+[Dead selection] in mainland: there are 90 individuals dead in selection; there are 749 individuals in the mainland; there are 39251 empty sites in the mainland 
+[Birth process] in mainland: there are 280 individuals germinating from local habitat; there are 803 individuals in the mainland; there are 39197 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 58 individuals dead in selection; there are 147 individuals in the metacommunity; there are 102253 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 44 offspring_marker born into the offspring_marker_pool; there are 44 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 184 individuals in the metacommunity; there are 102216 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 4 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 4 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 4 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 48 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 218 individuals in the metacommunity; there are 102182 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=24 
+[Dead selection] in mainland: there are 83 individuals dead in selection; there are 720 individuals in the mainland; there are 39280 empty sites in the mainland 
+[Birth process] in mainland: there are 269 individuals germinating from local habitat; there are 766 individuals in the mainland; there are 39234 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 60 individuals dead in selection; there are 158 individuals in the metacommunity; there are 102242 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 47 offspring_marker born into the offspring_marker_pool; there are 47 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 196 individuals in the metacommunity; there are 102204 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 2 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 2 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 2 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 49 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 224 individuals in the metacommunity; there are 102176 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=25 
+[Dead selection] in mainland: there are 73 individuals dead in selection; there are 693 individuals in the mainland; there are 39307 empty sites in the mainland 
+[Birth process] in mainland: there are 261 individuals germinating from local habitat; there are 752 individuals in the mainland; there are 39248 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 55 individuals dead in selection; there are 169 individuals in the metacommunity; there are 102231 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 47 offspring_marker born into the offspring_marker_pool; there are 47 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 207 individuals in the metacommunity; there are 102193 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 2 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 2 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 2 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 49 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 241 individuals in the metacommunity; there are 102159 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=26 
+[Dead selection] in mainland: there are 83 individuals dead in selection; there are 669 individuals in the mainland; there are 39331 empty sites in the mainland 
+[Birth process] in mainland: there are 248 individuals germinating from local habitat; there are 729 individuals in the mainland; there are 39271 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 66 individuals dead in selection; there are 175 individuals in the metacommunity; there are 102225 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 49 offspring_marker born into the offspring_marker_pool; there are 49 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 214 individuals in the metacommunity; there are 102186 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 5 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 5 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 5 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 54 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 252 individuals in the metacommunity; there are 102148 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=27 
+[Dead selection] in mainland: there are 66 individuals dead in selection; there are 663 individuals in the mainland; there are 39337 empty sites in the mainland 
+[Birth process] in mainland: there are 239 individuals germinating from local habitat; there are 706 individuals in the mainland; there are 39294 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 56 individuals dead in selection; there are 196 individuals in the metacommunity; there are 102204 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 57 offspring_marker born into the offspring_marker_pool; there are 57 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 235 individuals in the metacommunity; there are 102165 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 5 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 5 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 5 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 62 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 274 individuals in the metacommunity; there are 102126 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=28 
+[Dead selection] in mainland: there are 83 individuals dead in selection; there are 623 individuals in the mainland; there are 39377 empty sites in the mainland 
+[Birth process] in mainland: there are 222 individuals germinating from local habitat; there are 676 individuals in the mainland; there are 39324 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 70 individuals dead in selection; there are 204 individuals in the metacommunity; there are 102196 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 60 offspring_marker born into the offspring_marker_pool; there are 60 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 244 individuals in the metacommunity; there are 102156 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 3 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 3 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 3 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 63 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 284 individuals in the metacommunity; there are 102116 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=29 
+[Dead selection] in mainland: there are 78 individuals dead in selection; there are 598 individuals in the mainland; there are 39402 empty sites in the mainland 
+[Birth process] in mainland: there are 213 individuals germinating from local habitat; there are 643 individuals in the mainland; there are 39357 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 75 individuals dead in selection; there are 209 individuals in the metacommunity; there are 102191 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 60 offspring_marker born into the offspring_marker_pool; there are 60 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 248 individuals in the metacommunity; there are 102152 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 5 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 5 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 5 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 65 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 291 individuals in the metacommunity; there are 102109 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=30 
+[Dead selection] in mainland: there are 70 individuals dead in selection; there are 573 individuals in the mainland; there are 39427 empty sites in the mainland 
+[Birth process] in mainland: there are 197 individuals germinating from local habitat; there are 614 individuals in the mainland; there are 39386 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 70 individuals dead in selection; there are 221 individuals in the metacommunity; there are 102179 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 66 offspring_marker born into the offspring_marker_pool; there are 66 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 261 individuals in the metacommunity; there are 102139 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 1 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 1 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 1 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 67 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 300 individuals in the metacommunity; there are 102100 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=31 
+[Dead selection] in mainland: there are 55 individuals dead in selection; there are 559 individuals in the mainland; there are 39441 empty sites in the mainland 
+[Birth process] in mainland: there are 196 individuals germinating from local habitat; there are 602 individuals in the mainland; there are 39398 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 76 individuals dead in selection; there are 224 individuals in the metacommunity; there are 102176 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 72 offspring_marker born into the offspring_marker_pool; there are 72 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 263 individuals in the metacommunity; there are 102137 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 5 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 5 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 5 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 77 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 312 individuals in the metacommunity; there are 102088 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=32 
+[Dead selection] in mainland: there are 72 individuals dead in selection; there are 530 individuals in the mainland; there are 39470 empty sites in the mainland 
+[Birth process] in mainland: there are 179 individuals germinating from local habitat; there are 568 individuals in the mainland; there are 39432 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 80 individuals dead in selection; there are 232 individuals in the metacommunity; there are 102168 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 68 offspring_marker born into the offspring_marker_pool; there are 68 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 269 individuals in the metacommunity; there are 102131 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 6 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 6 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 6 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 74 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 314 individuals in the metacommunity; there are 102086 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=33 
+[Dead selection] in mainland: there are 56 individuals dead in selection; there are 512 individuals in the mainland; there are 39488 empty sites in the mainland 
+[Birth process] in mainland: there are 174 individuals germinating from local habitat; there are 552 individuals in the mainland; there are 39448 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 84 individuals dead in selection; there are 230 individuals in the metacommunity; there are 102170 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 65 offspring_marker born into the offspring_marker_pool; there are 65 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 270 individuals in the metacommunity; there are 102130 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 6 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 6 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 6 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 71 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 309 individuals in the metacommunity; there are 102091 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=34 
+[Dead selection] in mainland: there are 66 individuals dead in selection; there are 486 individuals in the mainland; there are 39514 empty sites in the mainland 
+[Birth process] in mainland: there are 158 individuals germinating from local habitat; there are 526 individuals in the mainland; there are 39474 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 61 individuals dead in selection; there are 248 individuals in the metacommunity; there are 102152 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 70 offspring_marker born into the offspring_marker_pool; there are 70 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 287 individuals in the metacommunity; there are 102113 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 10 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 10 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 10 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 80 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 339 individuals in the metacommunity; there are 102061 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=35 
+[Dead selection] in mainland: there are 60 individuals dead in selection; there are 466 individuals in the mainland; there are 39534 empty sites in the mainland 
+[Birth process] in mainland: there are 137 individuals germinating from local habitat; there are 494 individuals in the mainland; there are 39506 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 73 individuals dead in selection; there are 266 individuals in the metacommunity; there are 102134 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 78 offspring_marker born into the offspring_marker_pool; there are 78 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 305 individuals in the metacommunity; there are 102095 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 5 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 5 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 5 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 83 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 355 individuals in the metacommunity; there are 102045 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=36 
+[Dead selection] in mainland: there are 53 individuals dead in selection; there are 441 individuals in the mainland; there are 39559 empty sites in the mainland 
+[Birth process] in mainland: there are 128 individuals germinating from local habitat; there are 464 individuals in the mainland; there are 39536 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 78 individuals dead in selection; there are 277 individuals in the metacommunity; there are 102123 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 81 offspring_marker born into the offspring_marker_pool; there are 81 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 316 individuals in the metacommunity; there are 102084 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 5 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 5 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 5 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 86 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 361 individuals in the metacommunity; there are 102039 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=37 
+[Dead selection] in mainland: there are 49 individuals dead in selection; there are 415 individuals in the mainland; there are 39585 empty sites in the mainland 
+[Birth process] in mainland: there are 123 individuals germinating from local habitat; there are 452 individuals in the mainland; there are 39548 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 83 individuals dead in selection; there are 278 individuals in the metacommunity; there are 102122 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 88 offspring_marker born into the offspring_marker_pool; there are 88 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 316 individuals in the metacommunity; there are 102084 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 7 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 7 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 7 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 95 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 377 individuals in the metacommunity; there are 102023 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=38 
+[Dead selection] in mainland: there are 38 individuals dead in selection; there are 414 individuals in the mainland; there are 39586 empty sites in the mainland 
+[Birth process] in mainland: there are 122 individuals germinating from local habitat; there are 455 individuals in the mainland; there are 39545 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 69 individuals dead in selection; there are 308 individuals in the metacommunity; there are 102092 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 97 offspring_marker born into the offspring_marker_pool; there are 97 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 346 individuals in the metacommunity; there are 102054 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 11 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 11 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 11 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 108 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 403 individuals in the metacommunity; there are 101997 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=39 
+[Dead selection] in mainland: there are 44 individuals dead in selection; there are 411 individuals in the mainland; there are 39589 empty sites in the mainland 
+[Birth process] in mainland: there are 123 individuals germinating from local habitat; there are 439 individuals in the mainland; there are 39561 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 99 individuals dead in selection; there are 304 individuals in the metacommunity; there are 102096 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 93 offspring_marker born into the offspring_marker_pool; there are 93 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 343 individuals in the metacommunity; there are 102057 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 9 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 9 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 9 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 102 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 404 individuals in the metacommunity; there are 101996 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=40 
+[Dead selection] in mainland: there are 41 individuals dead in selection; there are 398 individuals in the mainland; there are 39602 empty sites in the mainland 
+[Birth process] in mainland: there are 120 individuals germinating from local habitat; there are 430 individuals in the mainland; there are 39570 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 110 individuals dead in selection; there are 294 individuals in the metacommunity; there are 102106 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 93 offspring_marker born into the offspring_marker_pool; there are 93 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 333 individuals in the metacommunity; there are 102067 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 13 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 13 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 13 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 106 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 392 individuals in the metacommunity; there are 102008 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=41 
+[Dead selection] in mainland: there are 45 individuals dead in selection; there are 385 individuals in the mainland; there are 39615 empty sites in the mainland 
+[Birth process] in mainland: there are 119 individuals germinating from local habitat; there are 420 individuals in the mainland; there are 39580 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 92 individuals dead in selection; there are 300 individuals in the metacommunity; there are 102100 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 94 offspring_marker born into the offspring_marker_pool; there are 94 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 339 individuals in the metacommunity; there are 102061 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 10 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 10 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 10 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 104 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 404 individuals in the metacommunity; there are 101996 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=42 
+[Dead selection] in mainland: there are 43 individuals dead in selection; there are 377 individuals in the mainland; there are 39623 empty sites in the mainland 
+[Birth process] in mainland: there are 113 individuals germinating from local habitat; there are 400 individuals in the mainland; there are 39600 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 87 individuals dead in selection; there are 317 individuals in the metacommunity; there are 102083 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 97 offspring_marker born into the offspring_marker_pool; there are 97 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 355 individuals in the metacommunity; there are 102045 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 10 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 10 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 10 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 107 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 417 individuals in the metacommunity; there are 101983 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=43 
+[Dead selection] in mainland: there are 43 individuals dead in selection; there are 357 individuals in the mainland; there are 39643 empty sites in the mainland 
+[Birth process] in mainland: there are 105 individuals germinating from local habitat; there are 386 individuals in the mainland; there are 39614 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 76 individuals dead in selection; there are 341 individuals in the metacommunity; there are 102059 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 105 offspring_marker born into the offspring_marker_pool; there are 105 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 379 individuals in the metacommunity; there are 102021 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 9 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 9 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 9 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 114 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 438 individuals in the metacommunity; there are 101962 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=44 
+[Dead selection] in mainland: there are 29 individuals dead in selection; there are 357 individuals in the mainland; there are 39643 empty sites in the mainland 
+[Birth process] in mainland: there are 99 individuals germinating from local habitat; there are 384 individuals in the mainland; there are 39616 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 96 individuals dead in selection; there are 342 individuals in the metacommunity; there are 102058 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 103 offspring_marker born into the offspring_marker_pool; there are 103 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 381 individuals in the metacommunity; there are 102019 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 11 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 11 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 11 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 114 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 440 individuals in the metacommunity; there are 101960 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=45 
+[Dead selection] in mainland: there are 30 individuals dead in selection; there are 354 individuals in the mainland; there are 39646 empty sites in the mainland 
+[Birth process] in mainland: there are 99 individuals germinating from local habitat; there are 378 individuals in the mainland; there are 39622 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 105 individuals dead in selection; there are 335 individuals in the metacommunity; there are 102065 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 103 offspring_marker born into the offspring_marker_pool; there are 103 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 373 individuals in the metacommunity; there are 102027 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 8 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 8 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 8 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 111 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 439 individuals in the metacommunity; there are 101961 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=46 
+[Dead selection] in mainland: there are 42 individuals dead in selection; there are 336 individuals in the mainland; there are 39664 empty sites in the mainland 
+[Birth process] in mainland: there are 92 individuals germinating from local habitat; there are 362 individuals in the mainland; there are 39638 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 97 individuals dead in selection; there are 342 individuals in the metacommunity; there are 102058 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 105 offspring_marker born into the offspring_marker_pool; there are 105 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 381 individuals in the metacommunity; there are 102019 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 14 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 14 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 14 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 119 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 448 individuals in the metacommunity; there are 101952 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=47 
+[Dead selection] in mainland: there are 35 individuals dead in selection; there are 327 individuals in the mainland; there are 39673 empty sites in the mainland 
+[Birth process] in mainland: there are 95 individuals germinating from local habitat; there are 351 individuals in the mainland; there are 39649 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 92 individuals dead in selection; there are 356 individuals in the metacommunity; there are 102044 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 114 offspring_marker born into the offspring_marker_pool; there are 114 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 395 individuals in the metacommunity; there are 102005 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 10 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 10 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 10 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 124 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 456 individuals in the metacommunity; there are 101944 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=48 
+[Dead selection] in mainland: there are 44 individuals dead in selection; there are 307 individuals in the mainland; there are 39693 empty sites in the mainland 
+[Birth process] in mainland: there are 88 individuals germinating from local habitat; there are 331 individuals in the mainland; there are 39669 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 84 individuals dead in selection; there are 372 individuals in the metacommunity; there are 102028 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 111 offspring_marker born into the offspring_marker_pool; there are 111 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 411 individuals in the metacommunity; there are 101989 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 13 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 13 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 2 individuals disperse into habs_immigrant_marker_pool among patches; there are 15 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 126 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 474 individuals in the metacommunity; there are 101926 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=49 
+[Dead selection] in mainland: there are 45 individuals dead in selection; there are 286 individuals in the mainland; there are 39714 empty sites in the mainland 
+[Birth process] in mainland: there are 76 individuals germinating from local habitat; there are 307 individuals in the mainland; there are 39693 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 97 individuals dead in selection; there are 377 individuals in the metacommunity; there are 102023 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 114 offspring_marker born into the offspring_marker_pool; there are 114 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 415 individuals in the metacommunity; there are 101985 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 9 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 9 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 9 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 123 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 484 individuals in the metacommunity; there are 101916 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=50 
+[Dead selection] in mainland: there are 44 individuals dead in selection; there are 263 individuals in the mainland; there are 39737 empty sites in the mainland 
+[Birth process] in mainland: there are 75 individuals germinating from local habitat; there are 278 individuals in the mainland; there are 39722 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 94 individuals dead in selection; there are 390 individuals in the metacommunity; there are 102010 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 123 offspring_marker born into the offspring_marker_pool; there are 123 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 428 individuals in the metacommunity; there are 101972 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 13 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 13 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 13 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 136 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 490 individuals in the metacommunity; there are 101910 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=51 
+[Dead selection] in mainland: there are 25 individuals dead in selection; there are 253 individuals in the mainland; there are 39747 empty sites in the mainland 
+[Birth process] in mainland: there are 68 individuals germinating from local habitat; there are 270 individuals in the mainland; there are 39730 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 106 individuals dead in selection; there are 384 individuals in the metacommunity; there are 102016 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 125 offspring_marker born into the offspring_marker_pool; there are 125 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 424 individuals in the metacommunity; there are 101976 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 11 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 11 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 11 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 136 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 491 individuals in the metacommunity; there are 101909 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=52 
+[Dead selection] in mainland: there are 20 individuals dead in selection; there are 250 individuals in the mainland; there are 39750 empty sites in the mainland 
+[Birth process] in mainland: there are 69 individuals germinating from local habitat; there are 272 individuals in the mainland; there are 39728 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 109 individuals dead in selection; there are 382 individuals in the metacommunity; there are 102018 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 124 offspring_marker born into the offspring_marker_pool; there are 124 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 421 individuals in the metacommunity; there are 101979 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 8 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 8 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 8 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 132 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 486 individuals in the metacommunity; there are 101914 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=53 
+[Dead selection] in mainland: there are 25 individuals dead in selection; there are 247 individuals in the mainland; there are 39753 empty sites in the mainland 
+[Birth process] in mainland: there are 68 individuals germinating from local habitat; there are 260 individuals in the mainland; there are 39740 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 116 individuals dead in selection; there are 370 individuals in the metacommunity; there are 102030 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 117 offspring_marker born into the offspring_marker_pool; there are 117 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 410 individuals in the metacommunity; there are 101990 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 10 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 10 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 10 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 127 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 481 individuals in the metacommunity; there are 101919 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=54 
+[Dead selection] in mainland: there are 31 individuals dead in selection; there are 229 individuals in the mainland; there are 39771 empty sites in the mainland 
+[Birth process] in mainland: there are 66 individuals germinating from local habitat; there are 247 individuals in the mainland; there are 39753 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 107 individuals dead in selection; there are 374 individuals in the metacommunity; there are 102026 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 109 offspring_marker born into the offspring_marker_pool; there are 109 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 413 individuals in the metacommunity; there are 101987 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 9 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 9 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 9 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 118 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 477 individuals in the metacommunity; there are 101923 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=55 
+[Dead selection] in mainland: there are 21 individuals dead in selection; there are 226 individuals in the mainland; there are 39774 empty sites in the mainland 
+[Birth process] in mainland: there are 63 individuals germinating from local habitat; there are 241 individuals in the mainland; there are 39759 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 95 individuals dead in selection; there are 382 individuals in the metacommunity; there are 102018 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 119 offspring_marker born into the offspring_marker_pool; there are 119 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 420 individuals in the metacommunity; there are 101980 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 13 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 13 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 13 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 132 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 488 individuals in the metacommunity; there are 101912 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=56 
+[Dead selection] in mainland: there are 24 individuals dead in selection; there are 217 individuals in the mainland; there are 39783 empty sites in the mainland 
+[Birth process] in mainland: there are 58 individuals germinating from local habitat; there are 230 individuals in the mainland; there are 39770 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 109 individuals dead in selection; there are 379 individuals in the metacommunity; there are 102021 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 121 offspring_marker born into the offspring_marker_pool; there are 121 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 417 individuals in the metacommunity; there are 101983 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 10 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 10 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 10 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 131 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 479 individuals in the metacommunity; there are 101921 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=57 
+[Dead selection] in mainland: there are 24 individuals dead in selection; there are 206 individuals in the mainland; there are 39794 empty sites in the mainland 
+[Birth process] in mainland: there are 52 individuals germinating from local habitat; there are 217 individuals in the mainland; there are 39783 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 85 individuals dead in selection; there are 394 individuals in the metacommunity; there are 102006 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 132 offspring_marker born into the offspring_marker_pool; there are 132 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 432 individuals in the metacommunity; there are 101968 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 10 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 10 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 10 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 142 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 503 individuals in the metacommunity; there are 101897 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=58 
+[Dead selection] in mainland: there are 22 individuals dead in selection; there are 195 individuals in the mainland; there are 39805 empty sites in the mainland 
+[Birth process] in mainland: there are 50 individuals germinating from local habitat; there are 208 individuals in the mainland; there are 39792 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 99 individuals dead in selection; there are 404 individuals in the metacommunity; there are 101996 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 129 offspring_marker born into the offspring_marker_pool; there are 129 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 442 individuals in the metacommunity; there are 101958 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 14 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 14 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 14 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 143 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 516 individuals in the metacommunity; there are 101884 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=59 
+[Dead selection] in mainland: there are 25 individuals dead in selection; there are 183 individuals in the mainland; there are 39817 empty sites in the mainland 
+[Birth process] in mainland: there are 48 individuals germinating from local habitat; there are 196 individuals in the mainland; there are 39804 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 110 individuals dead in selection; there are 406 individuals in the metacommunity; there are 101994 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 124 offspring_marker born into the offspring_marker_pool; there are 124 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 443 individuals in the metacommunity; there are 101957 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 14 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 14 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 14 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 138 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 513 individuals in the metacommunity; there are 101887 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=60 
+[Dead selection] in mainland: there are 19 individuals dead in selection; there are 177 individuals in the mainland; there are 39823 empty sites in the mainland 
+[Birth process] in mainland: there are 45 individuals germinating from local habitat; there are 187 individuals in the mainland; there are 39813 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 109 individuals dead in selection; there are 404 individuals in the metacommunity; there are 101996 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 117 offspring_marker born into the offspring_marker_pool; there are 117 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 444 individuals in the metacommunity; there are 101956 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 13 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 13 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 13 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 130 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 512 individuals in the metacommunity; there are 101888 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=61 
+[Dead selection] in mainland: there are 21 individuals dead in selection; there are 166 individuals in the mainland; there are 39834 empty sites in the mainland 
+[Birth process] in mainland: there are 44 individuals germinating from local habitat; there are 179 individuals in the mainland; there are 39821 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 94 individuals dead in selection; there are 418 individuals in the metacommunity; there are 101982 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 123 offspring_marker born into the offspring_marker_pool; there are 123 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 457 individuals in the metacommunity; there are 101943 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 14 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 14 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 14 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 137 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 526 individuals in the metacommunity; there are 101874 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=62 
+[Dead selection] in mainland: there are 16 individuals dead in selection; there are 163 individuals in the mainland; there are 39837 empty sites in the mainland 
+[Birth process] in mainland: there are 44 individuals germinating from local habitat; there are 173 individuals in the mainland; there are 39827 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 107 individuals dead in selection; there are 419 individuals in the metacommunity; there are 101981 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 125 offspring_marker born into the offspring_marker_pool; there are 125 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 459 individuals in the metacommunity; there are 101941 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 10 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 10 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 10 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 135 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 530 individuals in the metacommunity; there are 101870 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=63 
+[Dead selection] in mainland: there are 16 individuals dead in selection; there are 157 individuals in the mainland; there are 39843 empty sites in the mainland 
+[Birth process] in mainland: there are 41 individuals germinating from local habitat; there are 165 individuals in the mainland; there are 39835 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 110 individuals dead in selection; there are 420 individuals in the metacommunity; there are 101980 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 138 offspring_marker born into the offspring_marker_pool; there are 138 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 459 individuals in the metacommunity; there are 101941 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 10 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 10 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 10 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 148 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 534 individuals in the metacommunity; there are 101866 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=64 
+[Dead selection] in mainland: there are 19 individuals dead in selection; there are 146 individuals in the mainland; there are 39854 empty sites in the mainland 
+[Birth process] in mainland: there are 37 individuals germinating from local habitat; there are 156 individuals in the mainland; there are 39844 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 106 individuals dead in selection; there are 428 individuals in the metacommunity; there are 101972 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 141 offspring_marker born into the offspring_marker_pool; there are 141 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 466 individuals in the metacommunity; there are 101934 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 15 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 15 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 1 individuals disperse into habs_immigrant_marker_pool among patches; there are 16 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 157 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 550 individuals in the metacommunity; there are 101850 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=65 
+[Dead selection] in mainland: there are 21 individuals dead in selection; there are 135 individuals in the mainland; there are 39865 empty sites in the mainland 
+[Birth process] in mainland: there are 37 individuals germinating from local habitat; there are 141 individuals in the mainland; there are 39859 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 126 individuals dead in selection; there are 424 individuals in the metacommunity; there are 101976 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 141 offspring_marker born into the offspring_marker_pool; there are 141 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 461 individuals in the metacommunity; there are 101939 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 15 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 15 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 15 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 156 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 544 individuals in the metacommunity; there are 101856 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=66 
+[Dead selection] in mainland: there are 15 individuals dead in selection; there are 126 individuals in the mainland; there are 39874 empty sites in the mainland 
+[Birth process] in mainland: there are 34 individuals germinating from local habitat; there are 134 individuals in the mainland; there are 39866 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 114 individuals dead in selection; there are 430 individuals in the metacommunity; there are 101970 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 136 offspring_marker born into the offspring_marker_pool; there are 136 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 470 individuals in the metacommunity; there are 101930 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 11 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 11 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 11 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 147 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 550 individuals in the metacommunity; there are 101850 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=67 
+[Dead selection] in mainland: there are 16 individuals dead in selection; there are 118 individuals in the mainland; there are 39882 empty sites in the mainland 
+[Birth process] in mainland: there are 32 individuals germinating from local habitat; there are 127 individuals in the mainland; there are 39873 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 114 individuals dead in selection; there are 436 individuals in the metacommunity; there are 101964 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 136 offspring_marker born into the offspring_marker_pool; there are 136 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 473 individuals in the metacommunity; there are 101927 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 18 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 18 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 18 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 154 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 546 individuals in the metacommunity; there are 101854 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
+time_step=68 
+[Dead selection] in mainland: there are 14 individuals dead in selection; there are 113 individuals in the mainland; there are 39887 empty sites in the mainland 
+[Birth process] in mainland: there are 32 individuals germinating from local habitat; there are 118 individuals in the mainland; there are 39882 empty sites in the mainland 
+[Dead selection] in metacommunity: there are 98 individuals dead in selection; there are 448 individuals in the metacommunity; there are 101952 empty sites in the metacommunity 
+[Reproduction into offspring_marker_pool] in metacommunity: there are 133 offspring_marker born into the offspring_marker_pool; there are 133 offspring_marker in the offspring_marker_pool 
+[Colonization process] there are 40 individuals colonizing the metacommunity from mainland; there are 487 individuals in the metacommunity; there are 101913 empty sites in the metacommunity 
+[Dispersal within process] in metacommunity: there are 15 offspring marker disperse into habs_immigrant_marker_pool within patches; there are 15 offspring marker in the immigrant marker pool in the metacommunity 
+[Dispersal among patches] in metacommunity: there are 0 individuals disperse into habs_immigrant_marker_pool among patches; there are 15 individuals in the immigrant_marker_pools in the metacommunity 
+[Germination & Birth process] metacommunity: there are 148 individuals germinating_and_birth from local offspring_marker_pool and immigrant_marker_pool in the local habitat; there are 560 individuals in the metacommunity; there are 101840 empty sites in the metacommunity 
+[Disturbance process] occurred in [] 
+
