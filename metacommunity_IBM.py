@@ -79,6 +79,11 @@ class habitat():
 
     def add_individual(self, indi_object, len_id, wid_id):
         same_species_position=[]
+        if indi_object.species_id not in self.species_category:
+            self.species_category[indi_object.species_id] = {}  # 动态初始化物种键
+        if indi_object.gender not in self.species_category[indi_object.species_id]:
+            self.species_category[indi_object.species_id][indi_object.gender] = []  # 动态初始化性别键    
+            
         for i in self.species_category[indi_object.species_id].keys():
             same_species_position.extend(self.species_category[indi_object.species_id][i])
         
@@ -87,7 +92,8 @@ class habitat():
         for i in same_species_position:
             distance.append(math.sqrt((i[0]-len_id)**2+(i[1]-wid_id)**2))
 
-        Survival = math.exp(-self.a * sum([math.exp(-i / self.v) for i in distance]))
+        Survival = math.exp(-self.a * sum([math.exp(-i / float(self.v)) for i in distance]))
+        #Survival = math.exp(- sum([math.exp(-i / float(self.v)) for i in distance]))
 
         if random.random() > Survival:
             return
@@ -724,8 +730,8 @@ class patch():
             output[key]=value.set
         return output
 
-    def add_habitat(self, hab_name, hab_index, hab_location, num_env_types, env_types_name, mean_env_ls, var_env_ls, length, width, dormancy_pool_max_size):
-        h_object = habitat(hab_name, hab_index, hab_location, num_env_types, env_types_name, mean_env_ls, var_env_ls, length, width, dormancy_pool_max_size)
+    def add_habitat(self, hab_name, hab_index, hab_location, num_env_types, env_types_name, mean_env_ls, var_env_ls, length, width, dormancy_pool_max_size,a,v):
+        h_object = habitat(hab_name, hab_index, hab_location, num_env_types, env_types_name, mean_env_ls, var_env_ls, length, width, dormancy_pool_max_size,a,v)
         self.set[hab_name] = h_object
         self.hab_id_ls.append(hab_name)
         self.hab_num += 1
@@ -1538,7 +1544,21 @@ class metacommunity():
         else:
             pairwise_propgules_num = int_pairwise_propgules_num
         
+        # 确保抽样数量不超过列表长度且不为负
+        if pairwise_propgules_num <= 0:
+            raise ValueError("抽样数量不应为负数！请检查计算逻辑。")  # 严格报错
+            return []  # 或者处理为其他默认值
+
+        if pairwise_propgules_num > len(mainland_pairwise_occupied_sites_ls):
+            print("警告：抽样数量超过列表长度，已调整")  # 记录日志
+            notice = "警告：抽样数量超过列表长度，已调整"
+            # 可选方案1：调整抽样数量为列表长度
+            pairwise_propgules_num = len(mainland_pairwise_occupied_sites_ls)
+            # 可选方案2：直接返回整个列表的随机排序
+            #return random.shuffle(mainland_pairwise_occupied_sites_ls)[:pairwise_propgules_num]
+
         propagules_rain_pairwise_pos_ls = random.sample(mainland_pairwise_occupied_sites_ls, pairwise_propgules_num)
+        #propagules_rain_pairwise_pos_ls = random.sample(mainland_pairwise_occupied_sites_ls, pairwise_propgules_num)
         meta_pairwise_empty_sites_ls = self.get_meta_pairwise_empty_sites_ls()
         random.shuffle(meta_pairwise_empty_sites_ls)
         counter = 0
@@ -1559,8 +1579,9 @@ class metacommunity():
             counter += 2
         indi_num = self.get_meta_individual_num()
         empty_sites_num = self.show_meta_empty_sites_num()
-        log_info = '[Colonization process] there are %d individuals colonizing the metacommunity from mainland; there are %d individuals in the metacommunity; there are %d empty sites in the metacommunity \n'%(counter, indi_num, empty_sites_num)
+        log_info = '[Colonization process] there are %d individuals colonizing the metacommunity from mainland; there are %d individuals in the metacommunity; there are %d empty sites in the metacommunity \n;'%(counter, indi_num, empty_sites_num)+notice
         #print(log_info)
+        notice = None
         return log_info
 #******************** all hab in all patch in metacommunity, reproduce_mutate_process_into_offspring_pool ****************************************************#       
     def meta_asex_reproduce_mutate_into_offspring_pool(self, asexual_birth_rate, mutation_rate, pheno_var_ls):
